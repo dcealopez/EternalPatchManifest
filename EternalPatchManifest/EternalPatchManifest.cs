@@ -31,7 +31,7 @@ namespace EternalPatchManifest
                 return 1;
             }
 
-            Console.WriteLine("EternalPatchManifest v1.0 by proteh (ported to C# from the original Python version by @Visual Studio and @SutandoTsukai181)");
+            Console.WriteLine("EternalPatchManifest v1.1 by proteh (ported to C# from the original Python version by @Visual Studio and @SutandoTsukai181)");
 
             // Get the AES key bytes from the first argument
             byte[] buildManifestAesKey;
